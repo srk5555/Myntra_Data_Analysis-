@@ -53,7 +53,7 @@ The dashboard is designed to track key performance indicators (KPIs), visualize 
 
 ## 🗄️ SQL Backend Logic
 
-All KPIs and visuals are validated using SQL queries. The queries are saved in [View Full SQL KPI Querie](https://github.com/srk5555/Myntra_Data_Analysis-/blob/main/SQL_Kpis.sql)
+All KPIs and visuals are validated using SQL queries. The queries are saved in [View Full SQL KPI Queries](https://github.com/srk5555/Myntra_Data_Analysis-/blob/main/SQL_Kpis.sql)
 . Below is a glimpse of the structure:
 
 ### 📌 Sample SQL Queries Used
