@@ -1,6 +1,7 @@
 # 🛍️ Myntra Sales Dashboard (Power BI + SQL)
 
 ![Dashboard Page 1](https://github.com/srk5555/Myntra_Data_Analysis-/blob/main/PowerBi_SS1.png)
+---
 ![Dashboard Page 2](https://github.com/srk5555/Myntra_Data_Analysis-/blob/main/PowerBi_ss2.png)
 
 ## 📌 Project Overview
